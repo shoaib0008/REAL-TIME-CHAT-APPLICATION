@@ -10,7 +10,7 @@
 
 *DURATION*: 12 WEEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELAM SANTOSH
 
 # NexusChat — Real-Time Chat Application ⚡
 
