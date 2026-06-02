@@ -1,3 +1,17 @@
+# REAL-TIME-CHAT-APPLICATION
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Shoaib Akhtar
+
+*INTERN ID*: CTIS6941
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 12 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 # NexusChat — Real-Time Chat Application ⚡
 
 A beautiful, responsive, and real-time chat application built with **React**, **Vite**, and **WebSockets**. Features a modern glassmorphic design, dynamic avatars, and live typing indicators.
